@@ -30,14 +30,17 @@ Focused on DFIR, Web Security, Pentesting, and Security Research.
 
 # 🛠️ Tools & Technologies
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,vscode,git,github,ai,idea" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 
 </p>
 
 ---
-
 # 🚀 Mindset
 
 ```text

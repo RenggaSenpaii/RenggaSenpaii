@@ -18,7 +18,7 @@ Focused on DFIR, Web Security, Pentesting, and Security Research.
 
 ---
 
-# ⚡ About Me
+# About Me
 
 - 🔍 Interested in Digital Forensics
 - 🛡️ Learning Web Security & Pentesting
@@ -41,7 +41,7 @@ Focused on DFIR, Web Security, Pentesting, and Security Research.
 </p>
 
 ---
-# 🚀 Mindset
+# Mindset
 
 ```text
 Learn.
